@@ -1,0 +1,27 @@
+{
+  "Toyota": [
+              {"model": "Corolla", "year": 2002},
+              {"model": "Prius", "year": 2008},
+              {"model": "Camry", "year": 1999}
+            ],
+  "Honda":  [
+              {"model": "Oddysey", "year": 2005},
+              {"model": "Civic", "year": 2001},
+              {"model": "Accord", "year": 2014}
+            ],
+  "Audi":   [
+              {"model": "A4", "year": 2012},
+              {"model": "S8", "year": 2010},
+              {"model": "R8", "year": 2009}
+            ],
+  "Ford":   [
+              {"model": "Taurus", "year": 1997},
+              {"model": "Mustang", "year": 2007},
+              {"model": "Fusion", "year": 2010}
+            ],
+  "Nissan": [
+              {"model": "Altima", "year": 2006},
+              {"model": "Armada", "year": 2014},
+              {"model": "Quest", "year": 2010}
+            ]
+}

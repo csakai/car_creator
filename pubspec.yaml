@@ -1,0 +1,4 @@
+name: car_creator
+description: A sample web application
+dependencies:
+  browser: any
